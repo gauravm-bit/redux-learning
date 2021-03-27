@@ -1,8 +1,9 @@
+import Counter from './Counter' 
+
  function App() {
   return (
     <div>
-     Henlog
-      
+     <Counter/>
     </div>
   );
 }
